@@ -1,3 +1,10 @@
+<pre><code>brew install cmake</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
+
+<pre><code>pip install dlib</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
 
 <pre><code>pip install git+https://github.com/ageitgey/face_recognition_models</code></pre>
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
