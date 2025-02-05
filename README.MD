@@ -1,6 +1,5 @@
-<pre><code>brew install cmake</code></pre>
-<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
-</button>
+```bash brew install cmake```
+
 
 <pre><code>pip install dlib</code></pre>
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
