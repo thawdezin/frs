@@ -1,4 +1,7 @@
-```bash brew install cmake```
+```bash
+brew install cmake
+```  
+
 
 
 <pre><code>pip install dlib</code></pre>
